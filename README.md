@@ -5,7 +5,7 @@
 ![Technical Trainer](https://img.shields.io/badge/Technical_Trainer-1+_Year-yellow?style=for-the-badge&logo=book)
 
 Experienced Full Stack Web Developer and Technical Trainer passionate about solving complex problems and crafting high-quality software solutions.
-After having my life and career disrupted by war, I am now actively rebuilding myself, both personally and professionally — with renewed focus, deeper resilience, and a commitment to creating meaningful impact through technology.
+After having my life and career disrupted by war, I am now actively rebuilding myself, both personally and professionally, with renewed focus, deeper resilience, and a commitment to creating meaningful impact through technology.
 
 I specialize in **two main areas** that define my career and passion:
 
