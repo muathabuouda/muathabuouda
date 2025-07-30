@@ -9,11 +9,11 @@ After having my life and career disrupted by war, I am now actively rebuilding m
 
 I specialize in **two main areas** that define my career and passion:
 
-#### Technical Web System Design & Development  
+#### - Technical Web System Design & Development  
 Designing and building scalable, high-performance web applications, covering everything from backend architecture to frontend user experience.  
 My focus is on clean, efficient, and maintainable code, supported by deep system analysis and solid planning.
 
-#### Technical Training in Programming  
+#### - Technical Training in Programming  
 As a technical trainer, I deliver hands-on sessions for developers and teams, focusing on real-world programming skills, system thinking, and problem-solving.  
 I’m passionate about knowledge sharing through interactive, experience-driven training environments.
 
