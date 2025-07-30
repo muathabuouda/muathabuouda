@@ -101,9 +101,10 @@ I currently serve as a **Full Stack Developer** responsible for modernizing and 
 - Rebuilding outdated systems into modular, scalable, and secure web apps.
 - Migrating legacy code and databases to modern tech stacks.
 - Introducing UI/UX improvements for better usability across devices.
-- Implementing role-based dashboards, APIs, automation tools, and performance optimization mechanisms.  
-**Tech Stack:** Laravel, Vue.js, Inertia.js, Tailwind CSS, MySQL, Docker, GitHub Actions
-*Currently in development*  
+- Implementing role-based dashboards, APIs, automation tools, and performance optimization mechanisms.
+
+**Tech Stack:** Laravel, Vue.js, Inertia.js, Tailwind CSS, MySQL, Docker, GitHub Actions  
+*Currently in development*   
 [ETA Company](https://www.eta-water.com/)
 
 #### [Classio LMS Platform] - [Classio Academy]
