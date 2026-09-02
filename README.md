@@ -1,8 +1,8 @@
 ## Welcome! 👋 I'm Muath R Abu Ouda
-![Full Stack Web Developer](https://img.shields.io/badge/Full_Stack_Web_Developer-3+_Years-blue?style=for-the-badge&logo=code)
-![UX/UI Designer](https://img.shields.io/badge/UX/UI_Designer-5+_Years-purple?style=for-the-badge&logo=figma)
-![System Analyst](https://img.shields.io/badge/System_Analyst-4+_Years-darkorange?style=for-the-badge&logo=gear)
-![Technical Trainer](https://img.shields.io/badge/Technical_Trainer-1+_Year-yellow?style=for-the-badge&logo=book)
+![Full Stack Web Developer](https://img.shields.io/badge/Full_Stack_Web_Developer-8+_Years-blue?style=for-the-badge&logo=code)
+![UX/UI Designer](https://img.shields.io/badge/UX/UI_Designer-6+_Years-purple?style=for-the-badge&logo=figma)
+![System Analyst](https://img.shields.io/badge/System_Analyst-8+_Years-darkorange?style=for-the-badge&logo=gear)
+![Technical Trainer](https://img.shields.io/badge/Technical_Trainer-2+_Year-yellow?style=for-the-badge&logo=book)
 
 Experienced Full Stack Web Developer and Technical Trainer passionate about solving complex problems and crafting high-quality software solutions.
 After having my life and career disrupted by war, I am now actively rebuilding myself, both personally and professionally, with renewed focus, deeper resilience, and a commitment to creating meaningful impact through technology.
